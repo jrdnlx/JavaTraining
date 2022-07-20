@@ -11,7 +11,7 @@
 7) Practice git commands
 
 
-##AS2
+## AS2
 
 1) Print the Fibonacci Series by getting the value from the user(0,1,1,2,3,5,8,13...)
 2) Print the prime number by getting the value from the user
