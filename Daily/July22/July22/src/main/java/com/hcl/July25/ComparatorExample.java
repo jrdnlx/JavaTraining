@@ -50,6 +50,8 @@ public class ComparatorExample {
     Collections.sort(list,new NameComparator());
     list.forEach(System.out::println);
     
+    Collections.sort(list,(o1,o2)->(o1.getEmpName().compareTo(o2.getEmpName())));
+    
     System.out.println("Sort by empAge");
     Collections.sort(list,new AgeComparator());
     list.forEach(System.out::println);
