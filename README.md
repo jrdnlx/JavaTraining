@@ -47,3 +47,29 @@
 3) Write a Java program to iterate through all elements in a linked list starting at the specified position?
 4) Write a Java program to replace an element in a linked list?
 5) Write a Java program to convert a hash set to an array?
+
+## AS5
+
+Create a class Employee and the properties of an Employee are id, name, age, gender, dept, yearofjoining, salary.
+ 
+Based on the context, try to create hard coded data; Use only java 8 features.
+
+1) How many male and female employees are there in this organization?
+
+2) Find out Average age of male and female emps?
+
+3) Find the highest paid employee in this org?
+
+4) List all te names of employee who has joined after 2015?
+
+5) Find out the senior most employee in this org?
+
+6) Count the number of emps in each department?
+
+7) Find male and female employees are in Maintenance department?
+
+8) Find  the average slary of male and female employees?
+
+9) Differentiat eht the employees who are younger or equal to 30 yrs from those employees    who older than 25 years
+
+10) List down the names of all employees in each department?
