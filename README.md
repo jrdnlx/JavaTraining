@@ -1,5 +1,7 @@
 # JavaTraining
 
+
+Assignment Path: JavaTraining/AS2/AS2/src/main/java/com/hcl/
 ## AS1
 
 1) Create a new simple maven project.
