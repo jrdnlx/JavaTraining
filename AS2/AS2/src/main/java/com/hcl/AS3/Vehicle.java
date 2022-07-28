@@ -10,10 +10,14 @@ public class Vehicle {
 		
 		int loadingCapacity;
 		
+		void change(String color, int load) {
+			this.color = color;
+			this.loadingCapacity = load;
+		}
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
 	}
 
 }

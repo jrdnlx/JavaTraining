@@ -1,25 +1,24 @@
 package com.hcl.AS4;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.LinkedList;
 
-public class Swap {
+public class Replace {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		List<Integer> list = new ArrayList<>();
+		LinkedList<Integer> list = new LinkedList<>();
 		
 		
 		for(int i = 0; i < 10; i++) {
 			list.add(i);
 		}
 		
-		Collections.swap(list, 3, 7);
+		list.set(1, 22);
+		list.set(5, 100);
 		
-
 		System.out.println(list);
+
 	}
 
 }
