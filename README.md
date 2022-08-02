@@ -78,3 +78,13 @@ Applly CRUD operations:
 2) Update the existing employee based in his/her id
 3) Delete an employee based on the employee id
 4) Get the employee by i
+
+## AS7
+
+Create a maven web project and apply mvc design pattern using jdbc,servlets &jsp crud operation connecting with database
+
+Continuation of yesterday Assignment_7_MVC(Servlet,JSP and POJO)
+1) Retrieve all the employees
+2) Update the employee by Id
+3) Delete an employee by Id
+4) Search an employee by Id
