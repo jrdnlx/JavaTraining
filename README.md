@@ -1,4 +1,4 @@
-# JavaTraining
+# Java Training
 
 
 All assignments are in the Path: JavaTraining/AS2/AS2/src/main/java/com/hcl/
